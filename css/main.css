@@ -517,6 +517,9 @@ p {
     max-width: 85vw;
    }
 /* BLOG STYLES */
+  .blog-recent {
+    display: none;
+  }
   .post-aside {
     display: none;
   }
