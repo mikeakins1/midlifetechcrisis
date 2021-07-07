@@ -520,6 +520,9 @@ p {
   .blog-recent {
     display: none;
   }
+  .col {
+    padding: .5em;
+  }
   .col-aside blog-recent {
     display: none;
   }
