@@ -523,6 +523,9 @@ p {
   .col-aside blog-recent {
     display: none;
   }
+  .page {
+    width: 95vw;
+  }
 
   /*FOOTER STYLES*/
   .footer-nav li {
