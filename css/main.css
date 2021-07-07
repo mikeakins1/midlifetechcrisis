@@ -520,7 +520,13 @@ p {
   .blog-recent {
     display: none;
   }
-  .post-aside {
+  .col-aside {
     display: none;
   }
+
+  /*FOOTER STYLES*/
+  .footer-nav li {
+  display: inline-block;
+  margin: 1em 0.5em 0;
+}
 }
