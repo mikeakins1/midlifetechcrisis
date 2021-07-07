@@ -521,7 +521,7 @@ p {
     display: none;
   }
   .col {
-    padding: .5em;
+    padding: 1em;
   }
   .col-aside blog-recent {
     display: none;
