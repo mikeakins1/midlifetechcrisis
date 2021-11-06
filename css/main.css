@@ -192,7 +192,7 @@ p {
 .hero-left {
   float: left;  
   padding: 35vh 7vh 0 7vh;
-  width: 55%;
+  width: 75%;
 }
 .hero-left:after {
   bottom: 2vh;
