@@ -4,7 +4,7 @@ title: This is the title of the third post
 postHero: /images/code.jpg
 author: Alan Greenspan
 authorTwitter: https://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+gravatar: https://gravatar.com/avatar/9546e8b0504c7978f56f70e4607ed26f
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
