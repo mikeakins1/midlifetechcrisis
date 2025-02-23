@@ -17,9 +17,9 @@ the spleen and regulating the circulation.
 <img class="pull-left" src="https://placekitten.com/g/400/200"
      alt="kitten">
 
-'''php
+```php
 $name = 'Mike'
-'''
+```
 
 Whenever I find myself growing grim about the mouth; whenever it is a damp,
 drizzly November in my soul; whenever I find myself involuntarily pausing
